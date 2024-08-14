@@ -8,20 +8,27 @@ We are **TriDev Studios**, a small and passionate game development team based in
 
 - 👨‍💻 **Michele Cicerale**: 
   - Proficient in 9 programming languages: Python, C++, C#, C, Java, JavaScript (including Node.js), PHP, HTML, and CSS.
-  - Enjoys working with APIs, coding AI, performing data analysis, and building impressive Discord Bots.
+  - Enjoys working with APIs, coding AI, performing data analysis, and building unique Discord Bots.
   - Anime enthusiast, earning the nickname "Hotaku."
   - Possesses advanced knowledge in Physics and Math.
   - Chess advanced player with a real-life ELO of 1781.
+  - He is our Night Owl, he doesn't care what time it is, or what problems he has, he only cares to resolve those malicious bugs!
 
 - 🎮 **Riccardo Cei**:
   - Skilled in 6 programming languages: C++, C#, Java, JavaScript, HTML, and CSS.
   - A quick and dedicated learner.
+  - Never leaves a job undone.
   - Experienced in setting up Minecraft Mods and Plugins.
   - DnD Dungeon Master with over 2 years of experience.
+  - He is our Director, he uses his Gamer and Dungeon Master point of view to make the best games out there!
 
-- 🌱 **Mattia Riboldi**:
-  - Proficient in 6 programming languages: C#, Java, JavaScript, HTML, CSS, and Kotlin.
+- 🛠️ **Mattia Riboldi**:
+  - Proficient in 5 programming languages: C, C#, HTML, CSS, and Kotlin.
   - Always eager to learn new things.
+  - Graphic Designer.
+  - A maniacal perfectionist in what he does.
+  - Developing Android applications.
+  - He is our Designer, he makes sure to give to our games the best looking GUIs and UIs!
 
 <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="30" alt="c++" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
