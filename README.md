@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Welcome to TriDev Studios!" src="https://cdnb.artstation.com/p/assets/images/images/029/863/923/original/ivan-boyko-1.gif" /></p>
+<p align="center"><img width="80%" alt="Welcome to TriDev Studios!" src="https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif" /></p>
 
 <br />
 
