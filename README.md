@@ -39,5 +39,5 @@ We are **TriDev Studios**, a small and passionate game development team based in
 <br />
 
 <a href="https://youtube.com/channel/your-youtube-channel-id-here">
-  <img align="right" alt="TriDev Studios | YouTube" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/youtube.svg" />
+  <img align="right" alt="TriDev Studios | YouTube" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />
 </a>
