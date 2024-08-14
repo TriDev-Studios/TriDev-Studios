@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Welcome to TriDev Studios!" src="your-header-image-url-here" /></p>
+<p align="center"><img width="80%" alt="Welcome to TriDev Studios!" src="https://cdn.pfps.gg/banners/2394-moon.gif" /></p>
 
 <br />
 
