@@ -47,11 +47,18 @@ We’re always open to feedback, collaboration, and new ideas. Reach out to us v
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <div style="flex: 1; margin: 10px; padding: 20px; border-radius: 15px; background-color: var(--color-canvas-subtle); text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; align-items: center;">
-      <img src="https://placehold.co/50x50" alt="Member 1" style="border-radius: 50%; margin-right: 10px;">
-      <h3 style="margin: 0;">Member 1</h3>
+      <img src="https://placehold.co/36x36" alt="Member 1" style="border-radius: 50%; margin-right: 10px;">
+      <h3 style="margin: 0;">
+        Member 1
+      </h3>
     </div>
-    <p style="margin-top: 10px;">"Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat."</p>
-    <a href="#" style="text-decoration: none; background-color: #24292f; color: white; padding: 10px 30px; border-radius: 5px; display: inline-block; margin-top: 10px;">GitHub</a>
+    <p style="margin-top: 10px;">
+      "Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat."
+    </p>
+    <a href="#" style="text-decoration: none; background-color: #24292f; color: white; padding: 10px 30px; border-radius: 5px; display: inline-block; margin-top: 10px;">
+      GitHub
+    </a>
+
   </div>
   <div style="flex: 1; margin: 10px; padding: 20px; border-radius: 15px; background-color: var(--color-canvas-subtle); text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; align-items: center;">
@@ -61,6 +68,7 @@ We’re always open to feedback, collaboration, and new ideas. Reach out to us v
     <p style="margin-top: 10px;">"Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit, Sed Do Eiusmod Tempor Incididunt Ut Labore Et Dolore Magna Aliqua. Ut Enim Ad Minim Veniam, Quis Nostrud Exercitation Ullamco Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat."</p>
     <a href="#" style="text-decoration: none; background-color: #24292f; color: white; padding: 10px 30px; border-radius: 5px; display: inline-block; margin-top: 10px;">GitHub</a>
   </div>
+  
   <div style="flex: 1; margin: 10px; padding: 20px; border-radius: 15px; background-color: var(--color-canvas-subtle); text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <div style="display: flex; align-items: center;">
       <img src="https://placehold.co/50x50" alt="Member 3" style="border-radius: 50%; margin-right: 10px;">
